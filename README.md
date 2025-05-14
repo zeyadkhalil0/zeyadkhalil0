@@ -50,7 +50,10 @@
 
 **Core Skills**  
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-critical?style=for-the-badge&color=orange)
-
+![Self-Development](https://img.shields.io/badge/Self--Development-%2300C853?style=for-the-badge&logo=target&logoColor=white)
+![Self-Learning](https://img.shields.io/badge/Self--Learning-%230099FF?style=for-the-badge&logo=openai&logoColor=white)
+![Good Communicator](https://img.shields.io/badge/Good%20Communicator-%23FF6D00?style=for-the-badge&logo=communication&logoColor=white)
+![Innovative](https://img.shields.io/badge/Innovative-%23D500F9?style=for-the-badge&logo=idea&logoColor=white)
 ---
 
 **Projects & Interests**  

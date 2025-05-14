@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zeyad Muhammed Khalil</h1>
+<h1 align="center">Hi 👋, I'm Zeyad Muhammad Khalil</h1>
 <h3 align="left">"I am a student at Misr Higher Institute for Commerce & Computers, and I have started self-studying web development and graphic design"</h3>
 
 <hr>

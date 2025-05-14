@@ -74,26 +74,29 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with Me
 
 ### 🌐 Socials:
+<h3 align="center">🌐 Connect with me</h3>
 
-<a href="https://zaap.bio/zeyad" target="_blank" rel="noreferrer">
-  <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" height="40" width="40" />
-</a>
-
-<a href="mailto:connectwithzeyad@gmail.com" target="blank">
-  <img src="https://cdn-icons-png.freepik.com/256/5968/5968534.png" alt="email" height="40" width="40" />
-</a>
-
-<a href="https://twitter.com/zeyaddkhalil" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
-</a>
-
-<a href="https://linkedin.com/in/zeyad-khalil-2b2416325" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-</a>
-
-<a href="https://instagram.com/_zeyad.1" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="40" width="40" />
-</a>
+<p align="center">
+  <a href="https://zaap.bio/zeyad" target="_blank" rel="noreferrer">
+    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" height="40" width="40" alt="Zaap.bio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:connectwithzeyad@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.freepik.com/256/5968/5968534.png" height="40" width="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/zeyaddkhalil" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" alt="Twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/zeyad-khalil-2b2416325" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/_zeyad.1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" alt="Instagram" />
+  </a>
+</p>
 
 ---
 

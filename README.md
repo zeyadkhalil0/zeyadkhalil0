@@ -70,31 +70,29 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadkhalil0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with Me
 
-### 🌐 Socials:
-<h3 align="center">🌐 Connect with me</h3>
+### 🌐 Socials
 
 <p align="center">
-  <a href="https://zaap.bio/zeyad" target="_blank" rel="noreferrer">
-    <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/60e537346fa87d00016b77cc/0x0.png" height="40" width="40" alt="Zaap.bio" />
+  <a href="https://zaap.bio/zeyad" target="_blank">
+    <img src="https://img.shields.io/badge/Zaap.bio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnL3N2ZyI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" alt="Zaap.bio" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:connectwithzeyad@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.freepik.com/256/5968/5968534.png" height="40" width="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://twitter.com/zeyaddkhalil" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://linkedin.com/in/zeyad-khalil-2b2416325" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://instagram.com/_zeyad.1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 

@@ -4,9 +4,9 @@
 ---
 
 ---
- 🌱 Currently learning: *JavaScript,
-**React*
----
+
+- 🌱 Currently learning: **JavaScript**, **React**
+
 - 💡 Interested in: **Web Development**, **Graphic Design**, **Game Projects**
 
 <p align="right">

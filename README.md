@@ -3,7 +3,11 @@
 
 ---
 
-- 🌱 Currently learning: **JavaScript**, **React**
+- 🌱 Currently learning: **JavaScript**, **React****JavaScript**
+<img src="https://i.gifer.com/ZZ5H.gif" width="300" height="20" />
+
+**React**
+<img src="https://i.gifer.com/YCZH.gif" width="300" height="20" />
 - 💡 Interested in: **Web Development**, **Graphic Design**, **Game Projects**
 
 <p align="right">

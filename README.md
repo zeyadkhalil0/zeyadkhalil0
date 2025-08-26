@@ -18,6 +18,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
 
 ---
@@ -30,10 +31,15 @@
 
 ---
 
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
 ### **Design & Creative Tools**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40"/>
-</p>
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 ---
 
@@ -43,6 +49,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -70,30 +77,19 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeyadkhalil0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Connect with Me
 
-### 🌐 Socials
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://zaap.bio/zeyad" target="_blank">
-    <img src="https://img.shields.io/badge/Zaap.bio-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnL3N2ZyI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIvPjwvc3ZnPg==&logoColor=white" alt="Zaap.bio" />
-  </a>
+  <a href="https://zaap.bio/zeyad" target="_blank"><img src="https://skillicons.dev/icons?i=web" height="40" alt="Zaap.bio" /></a>
   &nbsp;
-  <a href="mailto:connectwithzeyad@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:connectwithzeyad@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
   &nbsp;
-  <a href="https://twitter.com/zeyaddkhalil" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <a href="https://twitter.com/zeyaddkhalil" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/zeyad-khalil-2b2416325" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/zeyad-khalil-2b2416325" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://instagram.com/_zeyad.1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="https://instagram.com/_zeyad.1" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>
 </p>
 
 ---

@@ -3,17 +3,9 @@
 
 ---
 
-- 🌱 Currently learning: **JavaScript**, **React****JavaScript**
 ---
-
-## 📚 Learning Progress
-
-**JavaScript**
-![JavaScript Progress](https://progress-bar.dev/70/?scale=100&title=Learning&width=300&color=yellow&suffix=%25)
-
-**React**
-![React Progress](https://progress-bar.dev/40/?scale=100&title=In%20Progress&width=300&color=61DAFB&suffix=%25)
-
+ 🌱 Currently learning: *JavaScript,
+**React*
 ---
 - 💡 Interested in: **Web Development**, **Graphic Design**, **Game Projects**
 

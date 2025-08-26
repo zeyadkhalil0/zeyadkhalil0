@@ -4,10 +4,17 @@
 ---
 
 - 🌱 Currently learning: **JavaScript**, **React****JavaScript**
-<img src="https://i.gifer.com/ZZ5H.gif" width="300" height="20" />
+---
+
+## 📚 Learning Progress
+
+**JavaScript**
+![JavaScript Progress](https://progress-bar.dev/70/?scale=100&title=Learning&width=300&color=yellow&suffix=%25)
 
 **React**
-<img src="https://i.gifer.com/YCZH.gif" width="300" height="20" />
+![React Progress](https://progress-bar.dev/40/?scale=100&title=In%20Progress&width=300&color=61DAFB&suffix=%25)
+
+---
 - 💡 Interested in: **Web Development**, **Graphic Design**, **Game Projects**
 
 <p align="right">
